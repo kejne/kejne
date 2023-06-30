@@ -6,7 +6,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/kajfehlhaber/) to get a a go
 
 ## 🧑‍🔧 Services
 - Team mentorships - Focus on Lean, DevOps, taking ownership & cloud architecture
-- Ensemle/mob programming sessions
+- Ensemble/mob programming sessions
 - DevOps Engineer - IaC, CI/CD, K8s, ...
 - Cloud Architect - AWS, Azure
 - Golang engineer
