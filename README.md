@@ -1,6 +1,15 @@
-Hi!
+## 🧑‍💻 What I do
+I'm a freelancing software engineer who helps organizations with building effective teams and to build state-of-the-art services in the cloud!
+I practice ensemble programming with my teams to build a learning team.
 
-I'm Kaj and I'm a freelancing software engineer who help organizations with building effective teams and to build state-of-the-art services in the cloud!
-There are many developers out there who are better on coding than me. I work in teams where we complement each other and I'm the one that can build it all toghether!
+Follow me on [LinkedIn](https://www.linkedin.com/in/kajfehlhaber/) to get a a good idea what I'm about!
 
-I would love to get more involved in a side-hustle or open source project, so reach out if you have some ideas!
+## 🧑‍🔧 Services
+- Team mentorships - Focus on Lean, DevOps, taking ownership & cloud architecture
+- Ensemle/mob programming sessions
+- DevOps Engineer - IaC, CI/CD, K8s, ...
+- Cloud Architect - AWS, Azure
+- Golang engineer
+
+## 📞 Get in touch!
+Reach me on [LinkedIn](https://www.linkedin.com/in/kajfehlhaber/)
