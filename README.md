@@ -4,6 +4,9 @@ I practice ensemble programming with my teams to build a learning team (where to
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/kajfehlhaber/) to get a a good idea what I'm about!
 
+## 🚀 Current assignment
+Platform Engineering at WirelessCar, building up an IDP (Internal Developer Platform), focusing heavily on CNCF and DX!
+
 ## 🧑‍🔧 Services
 - Team mentorships - Focus on Lean, DevOps, taking ownership & cloud architecture
 - Ensemble/mob programming sessions
