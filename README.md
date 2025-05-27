@@ -8,7 +8,6 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/kajfehlhaber/) to get a a go
 
 ### 🏗️ **Platform Engineering** at **WirelessCar**
 Building up an IDP (Internal Developer Platform), focusing heavily on CNCF and DX!
-Hopefully it will also include some open source contributions 👌
 
 ## 🧑‍🔧 Services
 - Team mentorships - Focus on Lean, DevOps, taking ownership & cloud architecture
